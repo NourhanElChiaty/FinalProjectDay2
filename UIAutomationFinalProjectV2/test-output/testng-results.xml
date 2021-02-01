@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35593" started-at="2021-02-01T18:10:31Z" finished-at="2021-02-01T18:11:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35593" started-at="2021-02-01T18:10:31Z" finished-at="2021-02-01T18:11:07Z">
+      <class name="com.UIAutomationFinalProjectV2.UIAutomationFinalProjectV2.Registeration">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.UIAutomationFinalProjectV2.UIAutomationFinalProjectV2.Registeration@59f99ea]" name="beforeTest" is-config="true" duration-ms="7323" started-at="2021-02-01T18:10:31Z" finished-at="2021-02-01T18:10:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="RegisterationTestCase()[pri:0, instance:com.UIAutomationFinalProjectV2.UIAutomationFinalProjectV2.Registeration@59f99ea]" name="RegisterationTestCase" duration-ms="27962" started-at="2021-02-01T18:10:39Z" finished-at="2021-02-01T18:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterationTestCase -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.UIAutomationFinalProjectV2.UIAutomationFinalProjectV2.Registeration@59f99ea]" name="afterTest" is-config="true" duration-ms="267" started-at="2021-02-01T18:11:07Z" finished-at="2021-02-01T18:11:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.UIAutomationFinalProjectV2.UIAutomationFinalProjectV2.Registeration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
